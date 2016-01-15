@@ -2,7 +2,7 @@ body{
 	margin: 0px;
 	padding: 0px;
 	font: 13px Helvetica,Arial,sans-serif;
-	line-height: 1.72;
+	line-height: 1.0;
 }
 div{
 	overflow: hidden;
@@ -14,8 +14,9 @@ div{
 }
 
 .text{
-    font-size: 16px;
+    font-size: 14px;
     text-align: center;
     color: #9d9d9d;
     display: none;
+    margin: 10px;
 }
